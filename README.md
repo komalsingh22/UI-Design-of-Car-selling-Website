@@ -1,6 +1,4 @@
-Sure, here's your README file content with the correct image formatting:
 
----
 
 # UI-Design-of-Car-selling-Website
 
@@ -66,5 +64,4 @@ This project involves designing a user-friendly and responsive website for selli
 
 7. **About Us Page**
    ![About Us Page](https://github.com/user-attachments/assets/de5868ee-8950-40e0-ba15-be1d2043b410)
-
 
